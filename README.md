@@ -5,12 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakibhoseen" alt="shakibhoseen" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://shakibhoseen.github.io/](https://shakibhoseen.github.io/)
+
 - 📫 How to reach me **shakibhossen100@gmail.com**
+
+- 📄 Know about my experiences [https://shakibhoseen.github.io/](https://shakibhoseen.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shakib-hossen-83672819a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakib-hossen-83672819a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCFN_HvUM5VfeR63tIcYF6Qw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="htucfn_hvum5vfer63ticyf6qw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/htucfn_hvum5vfer63ticyf6qw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="htucfn_hvum5vfer63ticyf6qw" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sallushakibkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sallushakibkhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shakibhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shakibhossen" height="30" width="40" /></a>
 </p>
